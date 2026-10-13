@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+.pytest_cache/
+.env
+.env.*
+!.env.example
+instance/
+instance*/
+backups/
+*.db
+*.sqlite*
+*.key
+crm-prototype-site.tar.gz
